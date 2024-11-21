@@ -25,3 +25,6 @@ A single external button was also added to implant in the wall as an easy to use
 It provided with very basic commands like fade on/off and change splash light color.
 
 All configuration was stored on EEPROM memory and with configuration can be changed using UDP commands.
+
+## UDP API Map:
+![alt text](image.png)
